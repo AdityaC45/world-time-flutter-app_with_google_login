@@ -1,6 +1,7 @@
 # world_time
 
-A new Flutter application.
+For google signin to work create an account on (https://console.firebase.google.com)
+and follow steps given on it
 
 ## Getting Started
 
